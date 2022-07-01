@@ -6,6 +6,7 @@ export default function About() {
     <Layout>
       <div>
         <h1>About Page</h1>
+        <h1>Test 567</h1>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam
           necessitatibus, ratione fugit vel nemo alias asperiores hic laborum
